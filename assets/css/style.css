@@ -1,5 +1,11 @@
-  .crystal-image {
+  	.crystal-image {
       width: 80px;
       height: 80px;
     }
-    
+
+    body { 
+	    background-image: url('images/whitediamondimage.png');
+	    background-repeat: repeat;
+	    background-attachment: fixed;
+	    background-position: center; 
+	}
