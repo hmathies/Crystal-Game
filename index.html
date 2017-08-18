@@ -2,29 +2,40 @@
  <html lang="en">
   <head>
    <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Crystals Collector Game</title>
 	 <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
-
 	  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-	   <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+  	   <link href="https://fonts.googleapis.com/css?family=Bellefair|Dosis" rel="stylesheet">
+	   	 <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 	    
   </head>
    <body>
     <h1>Number to Guess: <span id="number-to-guess"></span></h1>
 <!--  display 4 crystals as buttons with 'hidden' random numeric value between 1-12 -->
-  	 <div id="crystals">
-       <img class="crystal-image crystal1" src="assets/images/crystal1.jpg" alt="crystal1">
-	   <img class="crystal-image crystal2" src="assets/images/crystal2.jpg" alt="crystal2">
-	   <img class="crystal-image crystal3" src="assets/images/crystal3.jpg" alt="crystal3">
-	   <img class="crystal-image crystal4" src="assets/images/crystal4.jpg" alt="crystal4">
+  	<div class="row"> 
+  	 <div id="crystals" >
+       <img class="crystal-image crystal1 col-md-2 col-lg-2 col-sm-12 col-xs-12 col-md-offset-2 col-lg-offset-2" src="assets/images/crystal1.png" alt="crystal1">
+	   <img class="crystal-image crystal2 col-md-2 col-lg-2 col-sm-12 col-xs-12 " src="assets/images/crystal2.png" alt="crystal2">
+	   <img class="crystal-image crystal3 col-md-2 col-lg-2 col-sm-12 col-xs-12" src="assets/images/crystal3.png" alt="crystal3">
+	   <img class="crystal-image crystal4 crystal-image crystal1 col-md-2 col-lg-2 col-sm-12 col-xs-12 " src="assets/images/crystal4.png" alt="crystal4">
 	 </div>
+	</div>
 <!--  displays the score -->
-	  <div>
+	  <div class="score col-md-8 col-lg-10 col-sm-12 col-xs-12 col-md-offset-4 col-lg-offset-4">
 		<h2>Your total score is: <span id="userScore">0</span></h2>
 		<h3 id="wins">Wins: 0</h3>
 		<h3 id="losses">Losses: 0</h3>
-	  </div> 
+	  </div>
+	    <div class="row">
+        <div class="col-lg-12">
+          <div class="navbar navbar-default navbar-fixed-bottom footer" >
+            <p class="navbar-text">© 2017 - Site Built By Heather Mathies</p>
+          </div>
+        </div>
+      </div>
+      <br><br><br><br><br>
 	   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	    <!--   Link to the javascript file/jQuery link is at the end of the body -->

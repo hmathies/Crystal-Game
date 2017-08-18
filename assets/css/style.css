@@ -1,11 +1,41 @@
+  	h1 {
+	font-size: 80px;
+	text-align: center;
+	top: 60px;
+	letter-spacing: 7px;
+	
+  	}
+  	#number-to-guess {
+  		font-color: #313335;
+  		letter-spacing: 5px;
+  	}
+
   	.crystal-image {
-      width: 80px;
-      height: 80px;
+      width: 200px;
+      height: 200px;
+
     }
 
+	#crystals {
+		margin-top: 30px;
+		padding: 20px;
+		align-items: center;
+	}
     body { 
-	    background-image: url('images/whitediamondimage.png');
+	    background-image: url('../images/whitediamondimage.png');
 	    background-repeat: repeat;
 	    background-attachment: fixed;
 	    background-position: center; 
 	}
+	.score {
+		
+	}
+
+	.footer {
+    
+    height: 100px;
+    width: 100%;
+    background-color: #A4A4A2;
+    clear: both;
+	}
+
