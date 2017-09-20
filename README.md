@@ -1,5 +1,4 @@
-# week-4-game
-Crystal Game
+# Crystal-game
 
 The objective of the game is to guess the exact number.  If you guess over the number, you lose.
 
