@@ -14,6 +14,6 @@ Guess', it is marked as a loss and the game starts over.
 <hr>
 Thank you to the following sources:<br>
 https://www.toptal.com/designers/subtlepatterns/<br>
-The crystal images are from http://pngimages.net/<br>
+http://pngimages.net/<br>
 http://steven-universe.wikia.com/wiki/File:Purple_Diamond.png<br>
 http://pngimg.com/download/6690
