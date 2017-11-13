@@ -10,7 +10,11 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">    
   </head>
    <body>
+   	<div class="row">
+	  <div class="col-sm-12">
     <h1>Number to Guess: <span id="number-to-guess"></span></h1>
+      </div>
+    </div>
 <!--  display 4 crystals as buttons with 'hidden' random numeric value between 1-12 -->
   	<div class="row"> 
   	 <div id="crystals" >
@@ -21,11 +25,13 @@
 	 </div>
 	</div>
 <!--  displays the score -->
-	  <div class="score col-md-8 col-lg-10 col-sm-12 col-xs-12 col-md-offset-2 col-lg-offset-2">
+	<div class="row">
+	  <div class="score col-md-8 col-lg-8 col-sm-12 col-xs-12 col-md-offset-4 col-lg-offset-4">
 		<h2>Your total score is: <span id="userScore">0</span></h2>
 		<h3 id="wins">Wins: 0</h3>
 		<h3 id="losses">Losses: 0</h3>
 	  </div>
+	</div>
 	    <div class="row">
         <div class="col-md-8 col-lg-10 col-sm-12 col-xs-12 col-md-offset-4 col-lg-offset-2">
           <div class="navbar navbar-default navbar-fixed-bottom footer" >
