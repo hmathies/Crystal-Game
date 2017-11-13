@@ -1,8 +1,10 @@
 # Crystal-game
 
-<h1>Technologies Used:</h1>
+
+<h2>Technologies Used:</h2>
 HTML5, jQuery, Bootstrap, Google Fonts
 
+<hr>
 <h3>Directions: </h3>
 
 The objective of the game is to guess the exact number.  If you guess over the number, you lose.
