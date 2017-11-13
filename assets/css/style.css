@@ -14,11 +14,12 @@
   	.crystal-image {
       width: 220px;
       height: 220px;
-      padding: 20px;
+      padding: 15px;
     }
 
 	#crystals {
 		margin-top: 30px;
+
 	}
 
     body { 
@@ -27,6 +28,7 @@
 	    background-attachment: fixed;
 	    background-position: center;
 		font-family: 'Playfair Display', serif; 
+		margin: 10px;
 	}
 
 	.score {
