@@ -2,7 +2,7 @@
 
 The objective of the game is to guess the exact number.  If you guess over the number, you lose.
 
-Directions: 
+<h3>Directions: </h3>
 
 1. Click on any of the four crystals, which have hidden numeric values. This becomes your score. Each crystal has a 
 different random value between 1-12.
