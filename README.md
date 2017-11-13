@@ -12,5 +12,8 @@ different random value between 1-12.
 Guess', it is marked as a loss and the game starts over.  
 4. The game will always start over with a new 'Number to Guess' and each crystal will be assigned a new value.
 <hr>
-The background image is from https://www.toptal.com/designers/subtlepatterns/.
-The crystal images are from http://pngimages.net/, http://steven-universe.wikia.com/wiki/File:Purple_Diamond.png, and http://pngimg.com/download/6690
+Thank you to the following sources:<br>
+https://www.toptal.com/designers/subtlepatterns/<br>
+The crystal images are from http://pngimages.net/<br>
+http://steven-universe.wikia.com/wiki/File:Purple_Diamond.png<br>
+http://pngimg.com/download/6690
