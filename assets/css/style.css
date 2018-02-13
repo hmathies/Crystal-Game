@@ -53,12 +53,17 @@
         margin: auto;
         display: block;
         text-align: center;
-        padding: 0 1em 0 3em;
+        padding: 0 2em 0 8em;
 
       }
       h1 {
         font-size: 5em;
      }
+     .score {
+      padding: 2em;
+      text-align: center;
+     }
+   }
     @media only screen and (max-width: 768px) {
       .crystal-image {
         width: 100px;
@@ -76,13 +81,16 @@
       h1 {
         font-size: 4.5em;
      }
-
+     .score {
+      padding: 2em;
+      text-align: center;
+     }
 
     }
     @media only screen and (max-width: 440px) {
       .crystal-image {
-        width: 50px;
-        height: 50px;
+        width: 60px;
+        height: 60px;
         padding: 5px;
 
       }
@@ -95,6 +103,10 @@
       }
       h1 {
         font-size: 4em;
+     }
+     .score {
+      padding: 2em;
+      text-align: center;
      }
 
 
