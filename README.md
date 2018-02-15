@@ -22,4 +22,4 @@ http://pngimages.net/<br>
 http://steven-universe.wikia.com/wiki/File:Purple_Diamond.png<br>
 http://pngimg.com/download/6690
 
-<h3>Olympic-Clicky-game can be found on GitHub Pages <a href='https://hmathies.github.io/Crystal-Game/'>here.</a></h3>
+<h3>Olympic-Clicky-game can be found on GitHub Pages <a href='https://hmathies.github.io/Olympic-Clicky-Game/'>here.</a></h3>
